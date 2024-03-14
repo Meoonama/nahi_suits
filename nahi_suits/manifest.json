@@ -1,0 +1,10 @@
+{
+    "name": "nahi_suits",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Suits For Friends",
+    "dependencies": [
+    "x753-More_Suits-1.3.1",
+    "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
